@@ -1,5 +1,5 @@
 # Site Settings
-title: NGƯỜI THÔNG MINH | Mẹo vặt, làm đẹp..
+title: MẸO HAY 24H | Mẹo vặt, làm đẹp..
 email: doan.trong.quoc.binh@gmail.com
 description: Hân hạnh chào đón bạn đến với Trang Web trực tuyến phục vụ khách hàng từ xa của chúng tôi.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "https://techint.info" # the base hostname & protocol for your site
 google_analytics: "UA-138771107-1"
 
 # User Settings
-username: NGƯỜI THÔNG MINH
+username: MẸO HAY 24H
 user_description: Hotline 090 2683 189 | Fanpage https://www.facebook.com/AsiniceDung/
 disqus_username: disqus_username
 
